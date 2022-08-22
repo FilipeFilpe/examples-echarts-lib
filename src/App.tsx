@@ -1,5 +1,5 @@
+import { EchartCandlestick } from "./components/Echart";
 
-import { EchartCandlestick } from "./Echarts";
 function App() {
   return <EchartCandlestick />
 }
